@@ -27,3 +27,17 @@ Progress
 Just getting started!
 
 More projects coming soon!
+
+---
+
+## My First C Program 🎯
+
+### Hello World
+
+**Language:** C
+
+**Description:** My first C program that displays a greeting message.
+
+**Output:**
+```text
+Hello, Minna!
